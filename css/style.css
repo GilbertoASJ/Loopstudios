@@ -1,0 +1,128 @@
+/* --------------------------------- Global */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Alata', sans-serif;
+    font-size: 15px;
+    /*border: 1px solid red;*/
+}
+
+/* --------------------------------- Header */
+header {
+    background: url(../images/desktop/image-hero.jpg) no-repeat;
+    background-size: cover;
+    padding: 60px 100px;
+}
+
+header #logo {
+    padding-left: 100px;
+}
+
+header #nav {
+    padding-right: 100px;
+}
+
+header nav ul {
+    list-style: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    padding-right: 20px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+header nav ul li a:hover {
+    transition: 0.5s;
+    text-decoration: none;
+    color: white;
+    border-bottom: 1px solid white;
+    border-width: 5px;
+}
+
+header #msg .col-md-7 {
+    padding-left: 100px;
+    margin-top: 120px;
+    padding-bottom: 80px;
+}
+
+header #msg .col-md-7 h1 {
+    border: 3px solid white;
+    color: white;
+    font-size: 70px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    padding: 20px;
+    font-weight: 100;
+}
+
+/* --------------------------------- Section VR */
+#section-vr {
+    padding: 100px;
+}
+
+#msg-vr {
+    margin-top: 14%;
+    padding-left: 100px;
+    
+}
+
+#msg-vr h2 {
+    font-size: 50px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+#msg-vr p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    color: grey;
+}
+
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: #c76ccc;
+}
+
+#div-img-vr {
+    padding-right: 0;
+}
+
+#div-col-vr {
+    padding-left: 0;
+}
+
+/* --------------------------------- Our creations */
+#our-creations {
+    padding: 0 100px 50px;
+}
+
+#our-creations h2 {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+#our-creations a {
+    text-transform: uppercase;
+    color: black;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 45px;
+    letter-spacing: 5px;
+}
+
+#our-creations a:hover {
+    color: white;
+    background: black;
+    text-decoration: none;
+    transition: 0.5s;
+}
