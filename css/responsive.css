@@ -1,0 +1,124 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /* ------------------------------------------------- Header */
+    header {
+        background: url(../images/mobile/image-hero.jpg) no-repeat;
+    }
+
+    header #msg .col-md-7 h1  {
+        font-size: 2.5rem;
+    }
+
+    #msg-vr h2 {
+        font-size: 2rem;
+    }
+
+    header #logo {
+        padding-left: 40px;
+    }
+
+    header #nav {
+        padding-right: 40px;
+    }
+
+    header #msg .col-md-7 {
+        padding-left: 15px;
+    }
+
+    /* ------------------------------------------------- Section Vr */
+    #section-vr {
+        padding: 100px 40px 40px;
+    }
+
+    #box {
+        display: none;
+    }
+
+    #div-img-vr {
+        padding-left: 0;
+    }
+
+    #msg-vr {
+        text-align: center;
+        padding-left: 0;
+    }
+
+    #div-col-vr {
+        padding-right: 0;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* ------------------------------------------------- Header */
+    header {
+        background: url(../images/mobile/image-hero.jpg) no-repeat;
+    }
+
+    header #logo {
+        padding-left: 40px;
+    }
+
+    header #nav {
+        padding-right: 40px;
+    }
+
+    header #msg .col-md-7 {
+        padding-left: 15px;
+    }
+
+    /* ------------------------------------------------- Section Vr */
+    #section-vr {
+        padding: 100px 40px 40px;
+    }
+
+    #box {
+        display: none;
+    }
+
+    #div-img-vr {
+        padding-left: 0;
+    }
+
+    #msg-vr {
+        text-align: center;
+        padding-left: 0;
+    }
+
+    #div-col-vr {
+        padding-right: 0;
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* ------------------------------------------------- Header */
+    header nav #nav-mobile{
+        display: flex;
+        justify-content: flex-end;
+    }
+    /* ------------------------------------------------- Section Vr */
+    #box {
+        display: none;
+    }
+
+    
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* ------------------------------------------------- Header */
+    header nav #nav-mobile{
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    /* ------------------------------------------------- Header */
+    header nav #nav-mobile{
+        display: flex;
+        justify-content: flex-end;
+    }
+}
