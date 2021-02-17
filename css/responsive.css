@@ -46,6 +46,17 @@
     #div-col-vr {
         padding-right: 0;
     }
+
+    /* --------------------------------- Our creations */
+    #our-creations {
+        padding: 0;
+        padding-bottom: 50px;
+        text-align: center;
+    }
+
+    #our-creations a {
+        display: none;
+    }
 }
 
 /* Small devices (landscape phones, 576px and up)*/
@@ -87,6 +98,17 @@
 
     #div-col-vr {
         padding-right: 0;
+    }
+
+    /* --------------------------------- Our creations */
+    #our-creations {
+        padding: 0;
+        padding-bottom: 50px;
+        text-align: center;
+    }
+
+    #our-creations a {
+        display: none;
     }
 }
 
