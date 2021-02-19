@@ -50,7 +50,7 @@
     /* --------------------------------- Our creations */
     #our-creations {
         padding: 0;
-        padding-bottom: 50px;
+        padding-bottom: 30px;
         text-align: center;
     }
 
@@ -59,7 +59,27 @@
     }
 
     /* --------------------------------- First Card Section */
-    
+    #first-card-section {
+        padding: 30px;
+        padding-bottom: 0;
+    }
+
+    #first-card-section .card{
+        margin-bottom: 30px;
+    }
+
+    #first-card-section .row .card img.grid{
+        margin-bottom: 0;
+    }
+
+    /* --------------------------------- Second Card Section */
+    #second-card-section {
+        padding: 0 30px;
+    }
+
+    #second-card-section .card{
+        margin-bottom: 30px;
+    }
 }
 
 /* Small devices (landscape phones, 576px and up)*/
@@ -106,12 +126,35 @@
     /* --------------------------------- Our creations */
     #our-creations {
         padding: 0;
-        padding-bottom: 50px;
+        padding-bottom: 30px;
         text-align: center;
     }
 
     #our-creations a {
         display: none;
+    }
+
+    /* --------------------------------- First Card Section */
+    #first-card-section {
+        padding: 30px;
+        padding-bottom: 0;
+    }
+
+    #first-card-section .card{
+        margin-bottom: 30px;
+    }
+
+    #first-card-section .row .card img.grid{
+        margin-bottom: 0;
+    }
+
+    /* --------------------------------- Second Card Section */
+    #second-card-section {
+        padding: 0 30px;
+    }
+
+    #second-card-section .card{
+        margin-bottom: 30px;
     }
 }
 
