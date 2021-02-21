@@ -1,5 +1,3 @@
-//document.querySelector('#earth').setAttribute('src', 'https://github.com/GilbertoASJ/Loopstudios/blob/main/images/mobile/image-deep-earth.jpg?raw=true')
-
 let width = window.screen.availWidth
 let height = window.screen.availHeight
 
