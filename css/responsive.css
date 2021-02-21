@@ -89,6 +89,10 @@
     }
 
     /* --------------------------------- Footer */
+    footer #footer-nav {
+        padding: 0;
+    }
+    
     #footer .col-logo {
         padding: 30px;
         display: flex;
@@ -97,6 +101,22 @@
 
     footer#footer div#social {
         justify-content: center !important;
+    }
+
+    footer #footer-nav ul li {
+        display: block;
+        padding: 15px 0;
+    }
+
+    footer nav {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    footer #footer-nav .col-md-6 p {
+        text-align: center !important;
+        padding: 15px 0;
     }
 }
 
@@ -173,6 +193,37 @@
 
     #second-card-section .card{
         margin-bottom: 30px;
+    }
+
+    /* --------------------------------- Footer */
+    footer #footer-nav {
+        padding: 0;
+    }
+    
+    #footer .col-logo {
+        padding: 30px;
+        display: flex;
+        justify-content: center;
+    }
+
+    footer#footer div#social {
+        justify-content: center !important;
+    }
+
+    footer #footer-nav ul li {
+        display: block;
+        padding: 15px 0;
+    }
+
+    footer nav {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    footer #footer-nav .col-md-6 p {
+        text-align: center !important;
+        padding: 15px 0;
     }
 }
 
