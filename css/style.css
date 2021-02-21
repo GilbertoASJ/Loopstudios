@@ -163,6 +163,25 @@ header #msg .col-md-7 h1 {
     transition: 0.5s;
 }
 
+/* --------------------------------- Button mobile */
+.col-button-mobile {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+    display: none;
+}
+
+#button-mobile a {
+    text-transform: uppercase;
+    color: black;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 45px;
+    letter-spacing: 5px;
+}
+
 /* --------------------------------- Footer */
 footer {
     background-color: black;

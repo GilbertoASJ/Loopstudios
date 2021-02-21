@@ -80,6 +80,24 @@
     #second-card-section .card{
         margin-bottom: 30px;
     }
+
+    /* --------------------------------- Button mobile */
+    .col-button-mobile {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 60px;
+    }
+
+    /* --------------------------------- Footer */
+    #footer .col-logo {
+        padding: 30px;
+        display: flex;
+        justify-content: center;
+    }
+
+    footer#footer div#social {
+        justify-content: center !important;
+    }
 }
 
 /* Small devices (landscape phones, 576px and up)*/
