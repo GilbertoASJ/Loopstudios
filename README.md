@@ -31,4 +31,18 @@ Neste aplicativo foram utilizadas as seguintes tecnologias:
 - [JavaScript](https://www.w3schools.com/js/)
 - [Bootstrap](https://getbootstrap.com/)
 
-🚧👷 Em construção 👷🚧
+### ✈️ Como acessar o site
+
+Hospedado no Netlify
+
+https://loopstudios-gsj.netlify.app/
+
+Ou então 
+
+```
+Faça o download do repositório e execute index.html
+```
+
+### 📃 Licença
+
+Este projeto está sobre a licença <a href="https://github.com/GilbertoASJ/Loopstudios/blob/main/LICENSE">MIT</a>
