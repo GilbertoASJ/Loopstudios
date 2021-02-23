@@ -6,7 +6,7 @@
 ### 📚 Sobre
 
 Loopstudios é uma landing-page, esta página web foi desenvolvida com o intuito de realizar um dos desafios do https://www.frontendmentor.io.
-Sendo considerada um desafio de dificuldade intermdiária.]
+Sendo considerada um desafio de dificuldade intermdiária.
 
 ### 🎨 Detalhe
 
